@@ -1,0 +1,5 @@
+-- Execute yarn para baixar os pacotes necessários
+yarn
+
+-- Execute yarn start para iniciar a aplicação
+yarn
